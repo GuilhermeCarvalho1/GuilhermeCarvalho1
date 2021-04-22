@@ -1,5 +1,5 @@
 ### Olá devs! :star_struck:
-## Meu nome é Guilherme Carvalho
+## Me chamo Guilherme Henrique
 - Vivo no :brazil:, na cidade de São Paulo :night_with_stars:
 - Sou um estudante de desenvolvimento web front-end!:technologist:
 - Estou me aprimorando em HTML5, CSS e JavaScript(e frameworks.):sunglasses:
